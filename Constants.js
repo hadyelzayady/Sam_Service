@@ -7,6 +7,4 @@ module.exports.MessageHeader = {
     MSG_CONFIGURING_PINS: "101",
     MSG_UPLOADING_FIRMWARE: "102",
     MSG_STARTING_SYSTEM: "111"
-
-
 } 

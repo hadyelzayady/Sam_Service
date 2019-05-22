@@ -14,6 +14,6 @@ udp_server.on('listening', () => {
     console.log(`server listening ${address.address}:${address.port}`);
 });
 
-udp_server.bind(41234);
+udp_server.bind(31234);
 
 module.exports = udp_server
